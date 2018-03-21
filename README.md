@@ -26,7 +26,7 @@ Material de les xerrades de la segona edició del WebMentors
 
 ![universitat](imatges/universitat.jpg)
 
-* Descarregar Transparències : Properament
+* [Descarregar Transparències](universitat/webmentors2018.pdf)
 
 ## El món s'acaba: Desenvolupadors web fent APPs
 
