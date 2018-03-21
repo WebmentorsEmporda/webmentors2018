@@ -1,6 +1,45 @@
-# webmentors2018
-Edició del 2018 del Webmentors
+# Webmentors 2018
 
-# Material de les ponències
+![Cartell](imatges/webmentors2018-cartell.jpg)
 
-[TDD, CD, CI](https://speakerdeck.com/esteveaguilera/tdd-ci-and-cd)
+Material de les xerrades de la segona edició del WebMentors
+
+![Presentació](imatges/presentacio.jpg)
+
+## Presentació de projectes dels alumnes
+
+![alumnes](imatges/alumnes1.jpg)
+
+![alumnes2](imatges/alumnes2.jpg)
+
+## La transformació digital
+
+### Eduard Ymbert
+
+![Eduard](imatges/transformacio.jpg)
+
+* Descarregar Transparències : Properament
+
+## Universitat i feina després dels cicles
+
+### Julián Fernández i Claude Chaillet
+
+![universitat](imatges/universitat.jpg)
+
+* Descarregar Transparències : Properament
+
+## El món s'acaba: Desenvolupadors web fent APPs
+
+### Xavier Sala Pujolar
+
+![El món](imatges/mon.jpg)
+
+* [Descarregar Transparències](ElMonSacaba/webapps.pdf)
+
+## TDD, CI, CD i CD
+
+### Esteve Aguilera
+
+![TDD](imatges/tdd.jpg)
+
+* [Descarregar Transparències](https://speakerdeck.com/esteveaguilera/tdd-ci-and-cd)
